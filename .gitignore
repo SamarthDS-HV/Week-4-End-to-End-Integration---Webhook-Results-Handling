@@ -31,3 +31,7 @@ logs/
 
 # Testing
 coverage/
+
+# Private Documentation (not for public repository)
+CLIENT_CALL_SCRIPT.md
+INTEGRATION_DOCUMENTATION.md
