@@ -180,7 +180,8 @@ Then open `http://localhost:5173` in your browser and complete a KYC verificatio
 ## 📞 Support
 
 For issues or questions:
-- HyperVerge: support@hyperverge.co
+- Review logs for error details
+- Contact HyperVerge support for API-related issues
 - Documentation: https://documentation.hyperverge.co
 
 ---
